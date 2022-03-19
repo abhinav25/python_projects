@@ -1,1 +1,1 @@
-Word Search in files placed in a folder using JSON.
+Word Search in files placed in a folder using JSON config.
